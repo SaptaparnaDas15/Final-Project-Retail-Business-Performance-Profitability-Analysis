@@ -1,4 +1,4 @@
-Retail Business Performance Analysis
+Retail Business Performance Analysis.
 This project analyzes Superstore retail data using Power BI. It focuses on uncovering profit-draining categories, identifying seasonal sales trends, and optimizing inventory turnover.
 
 Project Highlights

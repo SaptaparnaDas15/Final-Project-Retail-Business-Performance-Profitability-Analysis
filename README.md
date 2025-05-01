@@ -19,3 +19,10 @@ Deliverables
 Power BI Dashboard (.pbix)
 Analysis Report (.docx)
 retail_db (.sql)
+
+Project2-YouTube Trending Video Analytics is also uploaded in a .rar file
+It contains-
+1.CSV Data files (.csv)
+2.Notebooks (.ipynb)
+3.Power BI Dashboard (.pbix)
+4.youtube_analysis (.sql) 
